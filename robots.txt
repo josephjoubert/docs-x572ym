@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-3yj2gu.gridvar.com/sitemap.xml
